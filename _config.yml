@@ -1,7 +1,7 @@
 # Site settings
 title: "Md Al Hasan - Data Analyst Portfolio"
 description: "Welcome to my professional GitHub landing page. Explore my projects in Data Science, SQL, Python, and Power BI."
-baseurl: ""  # Leave blank if using root domain (mdalhasanbappy.github.io)
+baseurl: "mdalhasanbappy.github.io"  # Leave blank if using root domain (mdalhasanbappy.github.io)
 url: "https://mdalhasanbappy.github.io"
 
 # Author settings
