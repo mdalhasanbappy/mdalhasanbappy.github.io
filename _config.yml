@@ -1,0 +1,38 @@
+# Site settings
+title: "Md Al Hasan - Data Analyst Portfolio"
+description: "Welcome to my professional GitHub landing page. Explore my projects in Data Science, SQL, Python, and Power BI."
+baseurl: ""  # Leave blank if using root domain (mdalhasanbappy.github.io)
+url: "https://mdalhasanbappy.github.io"
+
+# Author settings
+author:
+  name: "Md Al Hasan"
+  email: "your-email@example.com"
+  linkedin: "https://www.linkedin.com/in/mdalhasanbappy/"
+  github: "https://github.com/mdalhasanbappy"
+
+# Navigation (Top Menu Links)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Resume"
+    url: "/resume"
+  - title: "Contact"
+    url: "/contact"
+
+# Theme Settings (Use Jekyll Theme)
+remote_theme: "pages-themes/slate@v0.2.0"  # Choose a theme (Minimal, Slate, Hacker, etc.)
+plugins:
+  - jekyll-remote-theme
+
+# Social Media
+social:
+  github: "https://github.com/mdalhasanbappy"
+  linkedin: "https://www.linkedin.com/in/mdalhasanbappy/"
+  twitter: "https://twitter.com/yourtwitterhandle"
+
+# Footer Settings
+footer:
+  text: "© 2025 Md Al Hasan. All Rights Reserved."
