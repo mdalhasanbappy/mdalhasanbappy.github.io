@@ -41,7 +41,7 @@ Dhaka, Bangladesh | **2016 - 2020**
 ## Projects  
 
 ### **German Retail Sales Trend Analysis**  
-![German Retail Industry Insights_page-0001.jpg](https://github.com/mdalhasanbappy/Portfolios/blob/main/German%20Retail%20Sales%20Analysis/German%20Retail%20Industry%20Insights_page-0001.jpg)
+![German Retail Industry Insights_page-0001.jpg](/Asset/German20%Retail20%Industry20%Insights_page-0001.jpg)
 - Analyzed German retail sales trends over multiple years.  
 - Conducted **ANOVA analysis** and **time series forecasting** using **ARIMA/Prophet**.  
 - Implemented data visualization using **Matplotlib, Seaborn, and Power BI**.  
@@ -73,7 +73,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MYSQL/Mave
 ---
 
 ### **Data Professional Survey Visualization**  
-![Alex Data Professional Survey Data Visualization.jpg](https://github.com/mdalhasanbappy/Portfolios/blob/main/MS%20Power%20BI/Alex%20Data%20Professional%20Survey%20Data%20Visualization/Alex%20Data%20Professional%20Survey%20Data%20Visualization.jpg) 
+![Alex Data Professional Survey Data Visualization.jpg](/Asset/Alex Data Professional Survey Data Visualization.jpg) 
 - Created an **interactive Power BI dashboard** analyzing survey data from data professionals.  
 - Key insights include **salary trends, job satisfaction, and programming language popularity**.  
 - Used **Power Query, DAX, and Excel** for data transformation.  
@@ -81,7 +81,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MS%20Power
 ---
 
 ### **Presence & Productivity Insights Dashboard**  
-![Presence and Productivity Insights of AtliQ.jpg](https://github.com/mdalhasanbappy/Portfolios/blob/main/MS%20Power%20BI/Presence%20and%20Productivity%20Insights%20of%20AtliQ/Presence%20and%20Productivity%20Insights%20of%20AtliQ.jpg) 
+![Presence and Productivity Insights of AtliQ.jpg](/Asset/Presence and Productivity Insights of AtliQ.jpg) 
 - Developed an **HR analytics dashboard** tracking employee attendance and productivity.  
 - Key metrics: **Work-from-home trends, sick leave rates, and presence patterns**.  
 - Implemented **DAX measures and interactive filters** in Power BI.  
@@ -89,7 +89,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MS%20Power
 ---
 
 ### **Sales Insights Dashboard**  
-![Sales Insights - Data Analysis Project Code Basics.jpg](https://github.com/mdalhasanbappy/Portfolios/blob/main/MS%20Power%20BI/Sales%20Insight%20of%20Atliq%20Hardware%20Inc./Sales%20Insights%20-%20Data%20Analysis%20Project%20Code%20Basics.jpg) 
+![Sales Insights - Data Analysis Project Code Basics.jpg](/Asset/Sales Insights - Data Analysis Project Code Basics.jpg) 
 - Built a **sales performance dashboard** for Atliq Hardware Inc.  
 - Key features: **Revenue trends, customer insights, and product sales analysis**.  
 - Integrated **SQL for data extraction** and **Power BI for visualization**.  
@@ -104,20 +104,20 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MS%20Power
 I have completed several industry-recognized courses to enhance my technical expertise in data science, analytics, and business intelligence.  
 
 ### **Applied Data Science** *(University of Michigan)*  
-- [**Certificate:**](https://www.coursera.org/account/accomplishments/specialization/EDHSAYGJNSKZ) ![View Certificate](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Applied_DS.jpg)  
-- **GitHub Repository:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/Applied%20Data%20Science)  
+- [Certificate:](https://www.coursera.org/account/accomplishments/specialization/EDHSAYGJNSKZ) ![View Certificate](/Asset/Applied_DS.jpg)  
+- **GitHub** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/Applied%20Data%20Science)  
 
 ### **IBM Professional Data Science** *(IBM)*  
-- [**Certificate:**](https://www.coursera.org/account/accomplishments/professional-cert/Z3MWAD4BYE8Y) ![View Certificate](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/IBM.jpg)  
-- **GitHub Repository:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/IBM%20Professional%20Data%20Science)  
+- [Certificate:](https://www.coursera.org/account/accomplishments/professional-cert/Z3MWAD4BYE8Y) ![View Certificate](/Asset/IBM.jpg)  
+- **GitHub:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/IBM%20Professional%20Data%20Science)  
 
 ### **Excel Skills for Business** *(Macquarie University)*  
-- [**Certificate:**](https://www.coursera.org/account/accomplishments/specialization/JF6RNQTVHGTL) ![View Certificate](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Excel.jpg)  
-- **GitHub Repository:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/MS%20Excel)  
+- [Certificate:](https://www.coursera.org/account/accomplishments/specialization/JF6RNQTVHGTL) ![View Certificate](/Asset/Excel.jpg)  
+- **GitHub:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/MS%20Excel)  
 
 ### **Python 3 Programming** *(University of Michigan)*  
-- [**Certificate:**](https://www.coursera.org/account/accomplishments/specialization/EDHSAYGJNSKZ) ![View Certificate](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Python_3.jpg)  
-- **GitHub Repository:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/Python)  
+- [Certificate:](https://www.coursera.org/account/accomplishments/specialization/EDHSAYGJNSKZ) ![View Certificate](/Asset/Python_3.jpg)  
+- **GitHub:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/Python)  
 
 ---
 
