@@ -1,34 +1,144 @@
-## 📚 Education  
-### 🎓 MSc in International Management & Information Systems (IMIS)  
-**South Westphalia University of Applied Sciences** | 2025 - Present  
-- Focus on data analysis, business intelligence, and IT systems in management.  
-- Developing expertise in predictive modeling, database management, and strategic decision-making.  
 
-### 🎓 MBA in Human Resource Management  
-**Jahangirnagar University, Bangladesh** | 2020 - 2021  
-- Specialized in organizational behavior, workforce analytics, and business strategy.  
 
-### 🎓 BBA in Management Studies  
-**Jahangirnagar University, Bangladesh** | 2016 - 2020  
-- Built strong analytical and strategic management skills.  
+##  Education  
+###  MSc in International Management & Information Systems  
+**South Westphalia University of Applied Sciences**  
+ Soest, Germany | **2024 - Present**  
+
+###  Master of Business Administration (MBA) in Human Resource Management  
+**Jahangirnagar University**  
+ Dhaka, Bangladesh | **2020 - 2021**  
+
+###  Bachelor of Business Administration (BBA) in Management Studies  
+**Jahangirnagar University**  
+Dhaka, Bangladesh | **2016 - 2020**  
 
 ---
 
-## 💼 Work Experience  
+##  Work Experience  
+###  Associate  
+**Amazon**  
+ Eggolsheim, Bavaria, Germany | **Nov 2024 - Present**  
+- Assisting in warehouse operations, ensuring efficient inventory management and order fulfillment.  
+- Collaborating with teams to streamline logistics and optimize workflow processes.  
 
-### 📊 Sales and Marketing Analyst  
-**Wisdom Electronics, Dhaka, Bangladesh** | Oct 2020 - Aug 2024  
-- Analyzed sales trends and customer data to optimize marketing strategies.  
-- Developed data-driven reports using Excel and SQL to improve decision-making.  
-- Conducted market research and competitor analysis to enhance product positioning.  
+###  Sales and Marketing Analyst  
+**Wisdom Electronics**  
+ Dhaka, Bangladesh | **Oct 2020 - Aug 2024**  
+- Conducted market research and sales data analysis to drive strategic business decisions.  
+- Developed dashboards and reports to track sales trends and customer behavior.  
+- Coordinated with cross-functional teams to enhance marketing strategies.  
 
-### 🎯 Associate  
-**Amazon, Eggolsheim, Bavaria, Germany** | Nov 2024 - Present  
-- Working in a logistics and supply chain environment.  
-- Gaining experience in process optimization and inventory management.  
+###  SME Product Analyst Intern – Business Transformation (SME Division)  
+**BRAC Bank PLC**  
+ Dhaka, Bangladesh | **Mar 2022 - Jun 2022**  
+- Assisted in the transformation of SME financial products through data analysis and market research.  
+- Supported business process optimization to improve operational efficiency.  
+- Collaborated with stakeholders to align product offerings with customer needs.  
 
-### 🏦 Intern | BRAC Bank PLC  
-**Dhaka, Bangladesh** | Mar 2022 - Jun 2022  
-- Assisted in financial data analysis and reporting.  
-- Supported HR operations and workforce analytics projects.  
 ---
+
+## Projects  
+
+### **German Retail Sales Trend Analysis**  
+![German Retail Industry Insights_page-0001.jpg](https://github.com/mdalhasanbappy/Portfolios/blob/main/German%20Retail%20Sales%20Analysis/German%20Retail%20Industry%20Insights_page-0001.jpg)
+- Analyzed German retail sales trends over multiple years.  
+- Conducted **ANOVA analysis** and **time series forecasting** using **ARIMA/Prophet**.  
+- Implemented data visualization using **Matplotlib, Seaborn, and Power BI**.  
+GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/German%20Retail%20Sales%20Analysis)
+---
+
+### **SpaceX Data Science Capstone Project**  
+![IBM_Capstone.png](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/IBM_Capstone.png)
+- Developed a **machine learning model** to predict SpaceX rocket launch success rates.  
+- Performed **EDA, web scraping, and data wrangling**.  
+- Used **Folium, Plotly, and Scikit-learn** for data visualization and model building.  
+GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/IBM%20Applied%20Data%20Science%20Capstone%20Project)  
+---
+
+### **Maven Movies: SQL Data Analysis**  
+![Mysql_Data_Analysis.png](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Mysql_Data_Analysis.png)
+- Conducted SQL-based analysis on a movie dataset.  
+- Explored **revenue trends, genre popularity, and top-performing movies**.  
+- Implemented advanced **SQL joins, CTEs, and window functions**.  
+GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MYSQL/Maven%20MYSQL%20Data%20Analysis) 
+---
+
+### **Maven Advanced MySQL Data Analysis**  
+![Advance_Mysql_Data_Analysis.png.png](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Advance_Mysql_Data_Analysis.png.png)  
+- Performed in-depth **database analysis and performance optimization**.  
+- Designed complex queries to extract **business insights** from structured data.  
+- Utilized **subqueries, stored procedures, and indexing techniques**.  
+GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MYSQL/Maven_Advanced_MySQL_Data_Analysis)
+---
+
+### **Data Professional Survey Visualization**  
+![Alex Data Professional Survey Data Visualization.jpg](https://github.com/mdalhasanbappy/Portfolios/blob/main/MS%20Power%20BI/Alex%20Data%20Professional%20Survey%20Data%20Visualization/Alex%20Data%20Professional%20Survey%20Data%20Visualization.jpg) 
+- Created an **interactive Power BI dashboard** analyzing survey data from data professionals.  
+- Key insights include **salary trends, job satisfaction, and programming language popularity**.  
+- Used **Power Query, DAX, and Excel** for data transformation.  
+GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MS%20Power%20BI/Alex%20Data%20Professional%20Survey%20Data%20Visualization) 
+---
+
+### **Presence & Productivity Insights Dashboard**  
+![Presence and Productivity Insights of AtliQ.jpg](https://github.com/mdalhasanbappy/Portfolios/blob/main/MS%20Power%20BI/Presence%20and%20Productivity%20Insights%20of%20AtliQ/Presence%20and%20Productivity%20Insights%20of%20AtliQ.jpg) 
+- Developed an **HR analytics dashboard** tracking employee attendance and productivity.  
+- Key metrics: **Work-from-home trends, sick leave rates, and presence patterns**.  
+- Implemented **DAX measures and interactive filters** in Power BI.  
+GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MS%20Power%20BI/Presence%20and%20Productivity%20Insights%20of%20AtliQ) 
+---
+
+### **Sales Insights Dashboard**  
+![Sales Insights - Data Analysis Project Code Basics.jpg](https://github.com/mdalhasanbappy/Portfolios/blob/main/MS%20Power%20BI/Sales%20Insight%20of%20Atliq%20Hardware%20Inc./Sales%20Insights%20-%20Data%20Analysis%20Project%20Code%20Basics.jpg) 
+- Built a **sales performance dashboard** for Atliq Hardware Inc.  
+- Key features: **Revenue trends, customer insights, and product sales analysis**.  
+- Integrated **SQL for data extraction** and **Power BI for visualization**.  
+GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MS%20Power%20BI/Sales%20Insight%20of%20Atliq%20Hardware%20Inc.) 
+
+  
+
+---
+
+## Online Certifications  
+
+I have completed several industry-recognized courses to enhance my technical expertise in data science, analytics, and business intelligence.  
+
+### **Applied Data Science** *(University of Michigan)*  
+- [**Certificate:**](https://www.coursera.org/account/accomplishments/specialization/EDHSAYGJNSKZ) ![View Certificate](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Applied_DS.jpg)  
+- **GitHub Repository:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/Applied%20Data%20Science)  
+
+### **IBM Professional Data Science** *(IBM)*  
+- [**Certificate:**](https://www.coursera.org/account/accomplishments/professional-cert/Z3MWAD4BYE8Y) ![View Certificate](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/IBM.jpg)  
+- **GitHub Repository:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/IBM%20Professional%20Data%20Science)  
+
+### **Excel Skills for Business** *(Macquarie University)*  
+- [**Certificate:**](https://www.coursera.org/account/accomplishments/specialization/JF6RNQTVHGTL) ![View Certificate](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Excel.jpg)  
+- **GitHub Repository:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/MS%20Excel)  
+
+### **Python 3 Programming** *(University of Michigan)*  
+- [**Certificate:**](https://www.coursera.org/account/accomplishments/specialization/EDHSAYGJNSKZ) ![View Certificate](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Python_3.jpg)  
+- **GitHub Repository:** [Link](https://github.com/mdalhasanbappy/Course-Certification/tree/main/Python)  
+
+---
+
+## Technical Skills  
+
+### **Programming & Data Science**  
+**Python** (Numpy, Pandas, Scipy, Scikit-learn, NLTK, BeautifulSoup, Matplotlib, Plotly, Seaborn, NetworkX)  
+**SQL** (MySQL, PostgreSQL)  
+**Data Analysis & Visualization** (Power BI, Matplotlib, Seaborn)  
+**Machine Learning** (Regression, Clustering, Classification)  
+**Natural Language Processing (NLP)**  
+**Time Series Forecasting** (ARIMA, Prophet)  
+
+### **Business Intelligence & Analytics**  
+**Power BI** (DAX, Data Modeling, Dashboarding)  
+**MS Excel** (Advanced Formulas, Pivot Tables, Macros)  
+**Statistical Analysis** (ANOVA, Hypothesis Testing, A/B Testing)  
+**Data Wrangling & Cleaning**  
+
+### **Software & Tools**  
+**Jupyter Notebook, Google Colab**  
+**Git & GitHub**  
+**Tableau (Basic Visualization)**  
+**MS PowerPoint, MS Word**  
