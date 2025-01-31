@@ -41,7 +41,7 @@ Dhaka, Bangladesh | **2016 - 2020**
 ## Projects  
 
 ### **German Retail Sales Trend Analysis**  
-![German Retail Industry Insights_page-0001.jpg](/Asset/German20%Retail20%Industry20%Insights_page-0001.jpg)
+![German Retail Industry Insights_page-0001.jpg](/Asset/German_Retail.jpg)
 - Analyzed German retail sales trends over multiple years.  
 - Conducted **ANOVA analysis** and **time series forecasting** using **ARIMA/Prophet**.  
 - Implemented data visualization using **Matplotlib, Seaborn, and Power BI**.  
@@ -65,7 +65,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MYSQL/Mave
 ---
 
 ### **Maven Advanced MySQL Data Analysis**  
-![Advance_Mysql_Data_Analysis.png.png](/Asset/Advance_Mysql_Data_Analysis.png.png)  
+![Advance_Mysql_Data_Analysis.png.png](/Asset/Advance_Mysql_Data_Analysis.png)  
 - Performed in-depth **database analysis and performance optimization**.  
 - Designed complex queries to extract **business insights** from structured data.  
 - Utilized **subqueries, stored procedures, and indexing techniques**.  
@@ -73,7 +73,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MYSQL/Mave
 ---
 
 ### **Data Professional Survey Visualization**  
-![Alex Data Professional Survey Data Visualization.jpg](/Asset/Alex Data Professional Survey Data Visualization.jpg) 
+![Alex Data Professional Survey Data Visualization.jpg](/Asset/Alex_Survey.jpg) 
 - Created an **interactive Power BI dashboard** analyzing survey data from data professionals.  
 - Key insights include **salary trends, job satisfaction, and programming language popularity**.  
 - Used **Power Query, DAX, and Excel** for data transformation.  
@@ -81,7 +81,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MS%20Power
 ---
 
 ### **Presence & Productivity Insights Dashboard**  
-![Presence and Productivity Insights of AtliQ.jpg](/Asset/Presence and Productivity Insights of AtliQ.jpg) 
+![Presence and Productivity Insights of AtliQ.jpg](/Asset/Presence_N_Productivity.jpg) 
 - Developed an **HR analytics dashboard** tracking employee attendance and productivity.  
 - Key metrics: **Work-from-home trends, sick leave rates, and presence patterns**.  
 - Implemented **DAX measures and interactive filters** in Power BI.  
@@ -89,7 +89,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MS%20Power
 ---
 
 ### **Sales Insights Dashboard**  
-![Sales Insights - Data Analysis Project Code Basics.jpg](/Asset/Sales Insights - Data Analysis Project Code Basics.jpg) 
+![Sales Insights - Data Analysis Project Code Basics.jpg](/Asset/Sales_Code_Basics.jpg) 
 - Built a **sales performance dashboard** for Atliq Hardware Inc.  
 - Key features: **Revenue trends, customer insights, and product sales analysis**.  
 - Integrated **SQL for data extraction** and **Power BI for visualization**.  
