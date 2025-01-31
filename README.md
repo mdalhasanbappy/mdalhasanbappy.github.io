@@ -49,7 +49,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/German%20R
 ---
 
 ### **SpaceX Data Science Capstone Project**  
-![IBM_Capstone.png](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/IBM_Capstone.png)
+![IBM_Capstone.png](/Asset/IBM_Capstone.png)
 - Developed a **machine learning model** to predict SpaceX rocket launch success rates.  
 - Performed **EDA, web scraping, and data wrangling**.  
 - Used **Folium, Plotly, and Scikit-learn** for data visualization and model building.  
@@ -57,7 +57,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/IBM%20Appl
 ---
 
 ### **Maven Movies: SQL Data Analysis**  
-![Mysql_Data_Analysis.png](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Mysql_Data_Analysis.png)
+![Mysql_Data_Analysis.png](/Asset/Mysql_Data_Analysis.png)
 - Conducted SQL-based analysis on a movie dataset.  
 - Explored **revenue trends, genre popularity, and top-performing movies**.  
 - Implemented advanced **SQL joins, CTEs, and window functions**.  
@@ -65,7 +65,7 @@ GitHub: [Link](https://github.com/mdalhasanbappy/Portfolios/tree/main/MYSQL/Mave
 ---
 
 ### **Maven Advanced MySQL Data Analysis**  
-![Advance_Mysql_Data_Analysis.png.png](https://github.com/mdalhasanbappy/mdalhasanbappy.github.io/blob/main/Asset/Advance_Mysql_Data_Analysis.png.png)  
+![Advance_Mysql_Data_Analysis.png.png](/Asset/Advance_Mysql_Data_Analysis.png.png)  
 - Performed in-depth **database analysis and performance optimization**.  
 - Designed complex queries to extract **business insights** from structured data.  
 - Utilized **subqueries, stored procedures, and indexing techniques**.  
