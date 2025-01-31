@@ -3,7 +3,7 @@
 ##  Education  
 ###  MSc in International Management & Information Systems  
 **South Westphalia University of Applied Sciences**  
- Soest, Germany | **2024 - Present**  
+ Soest, Germany | **2025 - Present**  
 
 ###  Master of Business Administration (MBA) in Human Resource Management  
 **Jahangirnagar University**  
@@ -142,3 +142,17 @@ I have completed several industry-recognized courses to enhance my technical exp
 **Git & GitHub**  
 **Tableau (Basic Visualization)**  
 **MS PowerPoint, MS Word**  
+
+---
+
+## Connect with Me  
+
+You can connect with me on various platforms to discuss data science, analytics, and career opportunities.  
+
+🔗 **LinkedIn:** [Md Al Hasan](https://www.linkedin.com/in/mdalhasanbappy/)  
+🐙 **GitHub:** [mdalhasanbappy](https://github.com/mdalhasanbappy)  
+✉️ **Email:** [mdalhasanbappy@gmail.com](mailto:mdalhasanbappy@gmail.com)  
+📍 **Location:** Bamberg, Bavaria, Germany  
+
+---
+
