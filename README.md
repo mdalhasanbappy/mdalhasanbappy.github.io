@@ -1,15 +1,15 @@
 
 
 ##  Education  
-###  MSc in International Management & Information Systems  
-**South Westphalia University of Applied Sciences**  
- Soest, Germany | **2025 - Present**  
+###  MSc in European Economic Studies (EES)  
+**Otto-Friedrich-Universität Bamberg**  
+Bamberg, Bavaria, Germany | **2024 - Present**  
 
-###  Master of Business Administration (MBA) in Human Resource Management  
+###  Master of Business Administration (MBA)
 **Jahangirnagar University**  
  Dhaka, Bangladesh | **2020 - 2021**  
 
-###  Bachelor of Business Administration (BBA) in Management Studies  
+###  Bachelor of Business Administration (BBA)
 **Jahangirnagar University**  
 Dhaka, Bangladesh | **2016 - 2020**  
 
