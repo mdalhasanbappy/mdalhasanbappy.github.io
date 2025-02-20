@@ -1,9 +1,9 @@
 
 
 ##  Education  
-###  MSc in European Economic Studies (EES)  
-**Otto-Friedrich-Universität Bamberg**  
-Bamberg, Bavaria, Germany | **2024 - Present**  
+###  MSc in International Management & Information Systems (IMIS)  
+**Fachhochschule Südwestfalen University of Applied Science**  
+Soest, North Rhine-Westphalia, Germany | **2024 - Present**  
 
 ###  Master of Business Administration (MBA)
 **Jahangirnagar University**  
