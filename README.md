@@ -18,7 +18,7 @@ Dhaka, Bangladesh | **2016 - 2020**
 ##  Work Experience  
 ###  Associate  
 **Amazon**  
- Eggolsheim, Bavaria, Germany | **Nov 2024 - Present**  
+ Eggolsheim, Bavaria, Germany | **Nov 2024 - Mar 2025**  
 - Assisting in warehouse operations, ensuring efficient inventory management and order fulfillment.  
 - Collaborating with teams to streamline logistics and optimize workflow processes.  
 
